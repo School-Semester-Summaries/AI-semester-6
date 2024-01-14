@@ -16,3 +16,5 @@ Collage of a few projects I worked on this semester. Going from left to right, M
 - [Open Programme: Brawlhalla Bot]()
 - [Group Project: MRR-Drones]()
 - [Data Driven Innovation Challenge]()
+- [Side Projects]()
+  - [Ranknir](https://github.com/CrossyChainsaw/Ranknir) 
