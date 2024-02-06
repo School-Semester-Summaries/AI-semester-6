@@ -1,0 +1,1 @@
+Single frame as input. Model is first trained on understanding the images and what to do in certain states
