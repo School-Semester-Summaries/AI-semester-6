@@ -9,12 +9,19 @@ Collage of a few projects I worked on this semester. Going from left to right, M
 - Core Programme
   - [ANN - Exercise](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/ANN%20Exercise)
   - [CNN - Exercise (Brawlhalla)](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/CNN%20Exercise%20(Brawlhalla))
-  - [XAI - Exercise (Pokemon)](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/CNN%20Exercise%202%20(Pokemon))
+  - [CNN - Exercise (Pokemon)](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/CNN%20Exercise%202%20(Pokemon))
+  - [XAI - Exercise](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/XAI%20Exercise)
   - [RL - Exercise](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/RL%20Exercise)
   - [NLP - Exercise / DDIC](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Data-Driven%20Innovation%20Challenge)
   - [DV - Exercise](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/DV%20Exercise)
 - [Open Programme: Brawlhalla Bot](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Open%20Programme)
 - [Group Project: MRR-Drones](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/MRR-Drones)
-- [Data Driven Innovation Challenge](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Data-Driven%20Innovation%20Challenge)
+- [Data-Driven Innovation Challenge](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Data-Driven%20Innovation%20Challenge)
 - Side Projects
   - [Ranknir](https://github.com/CrossyChainsaw/Ranknir) 
+
+## Core Programme
+In the core programma you get the following subjects: ANN, CNN, XAI, RL, NLP and DV. After those you can show what you learned in the Data-Driven Innovation Challenge. 
+
+## Side Projects
+I worked a bit on Ranknir again this semester
