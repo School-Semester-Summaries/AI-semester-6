@@ -6,7 +6,7 @@ Collage of a few projects I worked on this semester. Going from left to right, M
 
 
 # Table of Contents
-- Core Programme
+- [Core Programme](https://github.com/School-Semester-Summaries/AI-semester-6/edit/main/README.md#core-programme)
   - [ANN - Exercise](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/ANN%20Exercise)
   - [CNN - Exercise (Brawlhalla)](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/CNN%20Exercise%20(Brawlhalla))
   - [CNN - Exercise (Pokemon)](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/CNN%20Exercise%202%20(Pokemon))
@@ -17,7 +17,7 @@ Collage of a few projects I worked on this semester. Going from left to right, M
 - [Open Programme: Brawlhalla Bot](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Open%20Programme)
 - [Group Project: MRR-Drones](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/MRR-Drones)
 - [Data-Driven Innovation Challenge](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Data-Driven%20Innovation%20Challenge)
-- Side Projects
+- [Side Projects](https://github.com/School-Semester-Summaries/AI-semester-6/edit/main/README.md#side-projects)
   - [Ranknir](https://github.com/CrossyChainsaw/Ranknir) 
 
 ## Core Programme
