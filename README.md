@@ -23,5 +23,14 @@ Collage of a few projects I worked on this semester. Going from left to right, M
 ## Core Programme
 In the core programma you get the following subjects: ANN, CNN, XAI, RL, NLP and DV. After those you can show what you learned in the Data-Driven Innovation Challenge. 
 
+## Open Programme
+Throughout the semester you get 1 day in the week to work on your open programme. In the open programme you can try to reach any goal related to AI. If you haven't been able to finish your semester till the last 2 weeks. you can use the last 2 weeks to catchup on your entire semester. If you are done with everything already you can use these 2 weeks to work on your open programme.
+
+## Group Project
+Self explanatory. Worked for MRR Drones. We tried to make a drone fly and avoid obstacles autonomously using RL.
+
+## Data-Driven Innovation Challenge
+In the DDIC you have to choose one of the given exercises. I chose to make a GeoGuessr of the city Eindhoven.
+
 ## Side Projects
-I worked a bit on Ranknir again this semester
+I worked a bit on Ranknir again this semester.
