@@ -30,7 +30,7 @@ Throughout the semester you get 1 day in the week to work on your open programme
 Self explanatory. Worked for MRR Drones. We tried to make a drone fly and avoid obstacles autonomously using RL.
 
 ## Data-Driven Innovation Challenge
-In the DDIC you have to choose one of the given exercises. I chose to make a GeoGuessr of the city Eindhoven.
+In the DDIC you apply what you learned in the core programme and try to create an application that has data and is innovative.
 
 ## Side Projects
 I worked a bit on Ranknir again this semester.
