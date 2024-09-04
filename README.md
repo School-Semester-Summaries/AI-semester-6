@@ -6,7 +6,7 @@ Collage of a few projects I worked on this semester. Going from left to right, M
 
 
 # Table of Contents
-- [Core Programme]
+- Core Programme
   - [ANN - Exercise](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/ANN%20Exercise)
   - [CNN - Exercise (Brawlhalla)](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/CNN%20Exercise%20(Brawlhalla))
   - [CNN - Exercise (Pokemon)](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/CNN%20Exercise%202%20(Pokemon))
