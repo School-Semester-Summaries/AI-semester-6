@@ -1,4 +1,4 @@
-# Semester 6 - Artificial Intelligence Advanced (WIP)
+# Semester 6 - Artificial Intelligence Advanced
 
 Collage of a few projects I worked on this semester. Going from left to right, MRR-Drones, Open Programme, DV-Exercise, XAI-Exercise, Data Driven Innovation Challenge, NLP-Exercise, RL-Exercise, [Ranknir](https://github.com/CrossyChainsaw/Ranknir), CNN-Exercise 
 
