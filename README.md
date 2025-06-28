@@ -7,11 +7,10 @@ Collage of a few projects I worked on this semester. Going from left to right, M
 
 # Table of Contents
 - Core Programme
-- [Open Programme: Brawlhalla Bot](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Open%20Programme)
-- [Group Project: MRR-Drones](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/MRR-Drones)
-- [Data-Driven Innovation Challenge](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Data-Driven%20Innovation%20Challenge)
+- Open Programme
+- Group Project: MRR-Drones
+- Data-Driven Innovation Challenge
 - Side Projects
-  - [Ranknir](https://github.com/CrossyChainsaw/Ranknir) 
 
 ## Core Programme
 In the core programma you get the following subjects: ANN, CNN, XAI, RL, NLP and DV. After following these topcis, you can show what you've learned in the Data-Driven Innovation Challenge. 
@@ -22,14 +21,16 @@ In the core programma you get the following subjects: ANN, CNN, XAI, RL, NLP and
   - [RL - Exercise](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/RL%20Exercise)
   - [NLP - Exercise / DDIC](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Data-Driven%20Innovation%20Challenge)
   - [DV - Exercise](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/DV%20Exercise)
-## Open Programme
+
+## Open Programme: Reinforcement Learning
 Throughout the semester you get 1 day in the week to work on your open programme. In the open programme you can try to reach any goal related to AI. If you haven't been able to finish your semester till the last 2 weeks. you can use the last 2 weeks to catchup on your entire semester. If you are done with everything already you can use these 2 weeks to work on your open programme. [More on Open Programme](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Open%20Programme)
 
-## Group Project
+## Group Project: MRR-Drones
 Self explanatory. Worked for MRR Drones. We tried to make a drone fly and avoid obstacles autonomously using RL. [More on Group Project](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/MRR-Drones).
 
 ## Data-Driven Innovation Challenge
 In the DDIC you apply what you learned in the core programme and try to create an application that has data and is innovative. [More on DDIC](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/Data-Driven%20Innovation%20Challenge)
 
 ## Side Projects
-I worked a bit on Ranknir again this semester.
+I worked a bit on Ranknir again this semester. [More on Ranknir](https://github.com/CrossyChainsaw/Ranknir)
+
